@@ -1,0 +1,13 @@
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\bin\Debug\netcoreapp3.1\TaperCalc.exe
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\bin\Debug\netcoreapp3.1\TaperCalc.deps.json
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\bin\Debug\netcoreapp3.1\TaperCalc.runtimeconfig.json
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\bin\Debug\netcoreapp3.1\TaperCalc.runtimeconfig.dev.json
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\bin\Debug\netcoreapp3.1\TaperCalc.dll
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\bin\Debug\netcoreapp3.1\TaperCalc.pdb
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\obj\Debug\netcoreapp3.1\TaperCalc.csprojAssemblyReference.cache
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\obj\Debug\netcoreapp3.1\TaperCalc.AssemblyInfoInputs.cache
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\obj\Debug\netcoreapp3.1\TaperCalc.AssemblyInfo.cs
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\obj\Debug\netcoreapp3.1\TaperCalc.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\obj\Debug\netcoreapp3.1\TaperCalc.dll
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\obj\Debug\netcoreapp3.1\TaperCalc.pdb
+C:\Users\Will\source\repos\TaperCalc\TaperCalc\obj\Debug\netcoreapp3.1\TaperCalc.genruntimeconfig.cache
